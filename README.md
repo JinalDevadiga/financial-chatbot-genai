@@ -85,4 +85,4 @@ The chatbot can answer the following predefined queries:
 
 ## 🙌 Acknowledgments
 
-- Developed as part of the [BCG GenAI Virtual Experience Program on Forage](https://www.theforage.com/)
+- Developed as part of the [BCG GenAI Virtual Experience Program on Forage](https://www.theforage.com/simulations/bcg/gen-ai-anlo)
