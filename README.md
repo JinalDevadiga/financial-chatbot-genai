@@ -43,7 +43,7 @@ The chatbot can answer the following predefined queries:
 
 2. Install required package:
    ```bash
-   pip install flask
+   pip install pandas seaborn flask
    ```
 
 3. Start the chatbot server:
@@ -79,8 +79,7 @@ The chatbot can answer the following predefined queries:
 ## 🏁 Future Enhancements
 
 - Add fuzzy matching or NLP to understand more natural language questions
-- Connect to real-time 10-K/10-Q filings via the SEC EDGAR API
-- Turn static answers into dynamic data-driven responses
+- Turn static answers into dynamic data-driven responses using AI
 
 ---
 
